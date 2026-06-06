@@ -1,9 +1,6 @@
 # 🚀 Algoritma P11 - Strategi dan Pola Integrasi REST API pada Aplikasi Mobile
 
-## 👨‍🎓 Identitas
 
-**Nama:** (Isi Nama Lengkap)  
-**NIM:** (Isi NIM)  
 **Mata Kuliah:** Mobile Programming Lanjutan  
 **Pertemuan:** 11  
 **Topik:** Strategi dan Pola Integrasi REST API pada Aplikasi Mobile Skala Produksi
